@@ -1,0 +1,1 @@
+/Users/annakoehler/.p10k.zsh
